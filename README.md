@@ -47,10 +47,11 @@ The project provides insights into:
 2. **Query Processing**: Execute SQL queries to analyze the data.
 3. **Insights Generation**: Present findings on sales, revenue, and customer preferences.
 
-## by.....
-- **Name**: Kedar Kumbhar
-- **LinkedIn**: [Kedar Kumbhar](https://www.linkedin.com/in/kedar-kumbhar-357286222)
+## Contact
+- **Developer**: kedar dadaso kumbhar
 - **Email**: kumbharkedar5256@gmail.com
+- **GitHub**: [github.com](https://github.com/k72192/k72192.git)
+- **LinkedIn**: [Kedar Kumbhar](https://www.linkedin.com/in/kedar-kumbhar-357286222)
 
 ---
 
